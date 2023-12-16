@@ -1,0 +1,7 @@
+.error {
+    border: 1px solid rgb(197, 5, 5); 
+  }
+  
+  .error-msg {
+    color: rgb(197, 5, 5);
+  }
