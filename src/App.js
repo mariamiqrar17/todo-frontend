@@ -6,7 +6,7 @@ import Todo from './Components/Todo';
 function App() {
   return (
     <div className='bg-blue-300 back'>
-      <Todo />
+      <Todo className="bg-blue-300"/>
     </div>
   );
 }
